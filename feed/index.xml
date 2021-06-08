@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gitpage</title>
+	<atom:link href="https://https://george-kall.github.io/gitpage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://george-kall.github.io/gitpage</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 08 Jun 2021 19:07:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>This is my new post</title>
+		<link>https://https://george-kall.github.io/gitpage/2021/06/08/this-is-my-new-post/</link>
+					<comments>https://https://george-kall.github.io/gitpage/2021/06/08/this-is-my-new-post/#respond</comments>
+		
+		<dc:creator><![CDATA[gitadmin]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 19:07:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://https://george-kall.github.io/gitpage/?p=21</guid>
+
+					<description><![CDATA[What a great post!]]></description>
+										<content:encoded><![CDATA[
+<p>What a great post!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://george-kall.github.io/gitpage/2021/06/08/this-is-my-new-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://https://george-kall.github.io/gitpage/2021/06/08/hello-world/</link>
+					<comments>https://https://george-kall.github.io/gitpage/2021/06/08/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[gitadmin]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 19:00:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://https://george-kall.github.io/gitpage/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://george-kall.github.io/gitpage/2021/06/08/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
